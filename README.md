@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofujoseph&label=Profile%20views&color=0e75b6&style=flat" alt="tofujoseph" /> </p>
 
-- 🔭 I’m currently working at **Azercell**
+- 🔭 I’m currently working at **Azercell Teleperform**
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 
