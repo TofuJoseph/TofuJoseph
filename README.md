@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tofiqyusifli2001@gmail.com**
 
-- ⚡ Fun fact **I wonder about the tanks**
+- ⚡ Fun fact **I think life's funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
