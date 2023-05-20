@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Azercell Teleperform**
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js**
+- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
 
 - 📫 How to reach me **tofiqyusifli2001@gmail.com**
 
