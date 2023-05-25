@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tofiqyusifli2001@gmail.com**
 
-- ⚡ Fun fact **I have a Tank :D**
+- ⚡ Fun fact **I think life's funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofujoseph&show_icons=true&locale=en&layout=compact" alt="tofujoseph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofujoseph&show_icons=true&locale=en" alt="tofujoseph" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofujoseph&" alt="tofujoseph" /></p>
